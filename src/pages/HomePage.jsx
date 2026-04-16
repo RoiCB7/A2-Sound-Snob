@@ -60,7 +60,7 @@ export default function HomePage() {
 
   return (
     <section>
-      <h2>You've Arrived</h2>
+      <h2>You've Arrived.</h2>
       <p>Now Seek Sound.</p>
 
       <div className="home-grid">

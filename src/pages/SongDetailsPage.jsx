@@ -215,7 +215,7 @@ export default function SongDetailsPage() {
       </div>
 
       <div className="details-card">
-        <h3>Song Analytics</h3>
+        <h3>Audio Profile</h3>
         <div className="chart-container">
           <Radar data={radarData} options={radarOptions} />
         </div>

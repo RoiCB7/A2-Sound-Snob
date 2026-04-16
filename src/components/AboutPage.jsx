@@ -25,7 +25,14 @@ export default function AboutPage({ isOpen, onClose }) {
         </p>
 
         <p>
-          <strong>GitHub Repo:</strong> Add repo link here later
+          <strong>GitHub Repo:</strong>{' '}
+          <a
+            href="https://github.com/RoiCB7/A2-Sound-Snob"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            A2-Sound-Snob
+          </a>
         </p>
 
         <p>

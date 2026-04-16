@@ -341,3 +341,11 @@ padding: 1.25rem;
 padding: 1rem 1rem;
 }
 }
+
+.details-card p {
+  margin: 0.5rem 0;
+}
+
+.artist-summary p {
+  margin-top: 0.4rem;
+}

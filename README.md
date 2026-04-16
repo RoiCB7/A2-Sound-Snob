@@ -2,11 +2,11 @@
 
 ##  Overview
 
-This project is a single-page app in React that allows users to browse songs, artists, and genres with relevant information for each category. Users can explore relationships between data and view some analytics in a radial chart for each song.
+This project is a single-page app in React that allows users to browse songs, artists, and genres with relevant information for each category. Users can view analytics in a radial chart for each song.
 
 ## Features
 
-* Browse songs, artists, and genres
+* Browse and filter songs, artists, and genres
 * View detailed song information
 * Radar chart visualization of song attributes
 * Navigate between songs, artists, and genres
@@ -14,22 +14,23 @@ This project is a single-page app in React that allows users to browse songs, ar
 
 ## Technologies
 
-* React (Vite)
+* React
+* Vite
 * React Router
 * Node.js
 * Express
-* Chart.js (react-chartjs-2)
+* Chart.js
 
 ## 📊 Data
 
-The application uses CSV-based datasets for:
+The application uses datasets for:
 
 * Songs
 * Artists
 * Genres
 * Types
 
-This data is retrieved via a Node API hosted on render.com.
+This data is retrieved via a Node/Express API hosted on render.com.
 https://song-data-api.onrender.com
 
 ## Key Concepts
@@ -52,7 +53,7 @@ Rounded borders look were inspired by Spotify. This was done with CSS and Chart.
 
 ## 🔗 Github Pages Link
 
-Add here
+[Github Pages Link Here!](https://roicb7.github.io/A2-Sound-Snob/)
 
 ## 📚 Credits
 
